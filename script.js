@@ -10,7 +10,7 @@ for (let i = 0; i < 800; i++) {
 
     const div = document.createElement("div");
 
-    div.classList.add("box");
+    div.classList.add("square");
 
     // Mouse enter event
     div.addEventListener("mouseenter", (e) => {

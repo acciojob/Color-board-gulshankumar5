@@ -27,7 +27,7 @@ body {
 }
 
 /* Individual boxes */
-.box {
+.square {
     background-color: grey;
     border-radius: 20%;
     cursor: pointer;
